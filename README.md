@@ -1,8 +1,9 @@
 # backup-configuration-automation
-backup configuration auto, support device type: cisco, juniper, fortinet, HP, aruba switch, aruba wireless, paloalto...
 
 My homepage : https://junos126.pythonanywhere.com/
+
 **Description**: 
+
 Auto-configuration backup, support devices type: cisco, juniper, fortinet, HP, aruba switch, aruba wireless, paloalto...
 
 **Step 1:**
