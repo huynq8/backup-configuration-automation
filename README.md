@@ -6,16 +6,7 @@ My homepage : https://junos126.pythonanywhere.com/
 
 Auto-configuration backup, support devices type: cisco, juniper, fortinet, HP, aruba switch, aruba wireless, paloalto...
 
-**Step 1:**
-
-![image](https://github.com/huynq8/backup-configuration-automation/assets/40312085/4a3fa466-6890-4a8a-8bfc-549ef38e02b1)
-
-**Step 2:** Register information to login
-
-![image](https://github.com/huynq8/backup-configuration-automation/assets/40312085/9c7d1a88-2cd8-4ccf-91e0-d9918214b1f2)
-
-
-**Step 3:** Login tool and Download template then fill your information, After that you choose menu -- Upload template:
+**Step 1:** Download template then fill your information, After that you choose menu -- Upload template:
 
 ![image](https://github.com/huynq8/backup-configuration-automation/assets/40312085/16132280-dcbc-4d74-b8c3-ed7109111d50)
 
