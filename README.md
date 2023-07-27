@@ -11,11 +11,11 @@ Auto-configuration backup, support devices type: cisco, juniper, fortinet, HP, a
 ![image](https://github.com/huynq8/backup-configuration-automation/assets/40312085/16132280-dcbc-4d74-b8c3-ed7109111d50)
 
 
-**Step 4:** You choose Database -- Create Database to generate DB:
+**Step 2:** You choose Database -- Create Database to generate DB:
 
 ![image](https://github.com/huynq8/backup-configuration-automation/assets/40312085/1805a6e2-4da0-4987-9115-9343f39b344f)
 
 
-**Step 5:** You can change folder save configuration and you can backup each device or all device.
+**Step 3:** You can change folder save configuration and you can backup each device or all device.
 
 ![image](https://github.com/huynq8/backup-configuration-automation/assets/40312085/7ec55bca-03f5-429b-9da3-77b31a37a9c8)
